@@ -1,3 +1,3 @@
-const foo: (arg: number) => number = (arg: number): number => {
+const foo = (arg) => {
     return arg + 3
 }
